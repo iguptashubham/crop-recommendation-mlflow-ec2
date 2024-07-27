@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1722016549467
+current_stage: None
+description: ''
+last_updated_timestamp: 1722016549467
+name: crop_ml
+run_id: 7f69131bfd3640df920f9c81fd13bb48
+run_link: ''
+source: file:///C:/Users/Asus/Downloads/archive%20%283%29/mlruns/0/7f69131bfd3640df920f9c81fd13bb48/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/Asus/Downloads/archive%20%283%29/mlruns/0/7f69131bfd3640df920f9c81fd13bb48/artifacts/model
+user_id: null
+version: 1

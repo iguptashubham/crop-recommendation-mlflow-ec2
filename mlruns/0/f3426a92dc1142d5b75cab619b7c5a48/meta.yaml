@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Asus/Downloads/archive%20%283%29/mlruns/0/f3426a92dc1142d5b75cab619b7c5a48/artifacts
+end_time: 1722016057543
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f3426a92dc1142d5b75cab619b7c5a48
+run_name: thundering-mare-115
+run_uuid: f3426a92dc1142d5b75cab619b7c5a48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722016040147
+status: 3
+tags: []
+user_id: Asus

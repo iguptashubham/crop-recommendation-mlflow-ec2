@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1722016626378
+current_stage: None
+description: ''
+last_updated_timestamp: 1722016626378
+name: crop_ml
+run_id: 910a31674da9415da56aa3433b0346ea
+run_link: ''
+source: models:/crop_ml/3
+status: READY
+status_message: null
+storage_location: file:///C:/Users/Asus/Downloads/archive%20%283%29/mlruns/0/910a31674da9415da56aa3433b0346ea/artifacts/model
+user_id: null
+version: 4
